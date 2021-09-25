@@ -1,0 +1,17 @@
+.card {
+    background-color: var(--card-bg);
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.card__img {
+    width: 50px;
+    margin-right: 20px;
+}
+
+.card__img img {
+    width: 100%;
+}
